@@ -1,6 +1,6 @@
 # Custom Aliases
 
-Customize the command line interfaces with new aliases.
+Customize the command line interface with new aliases. Follow these simple instructions:
 
 ```
 cd /opt
